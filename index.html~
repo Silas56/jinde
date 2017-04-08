@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <title>旅游目的地部落</title>
+
+    <!-- Bootstrap -->
+    <link href="lib/css/bootstrap.css" rel="stylesheet">
+    <!-- load style-->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./lib/css/swiper.min.css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <div class="logo">
+            <img src="image/pic2x.png" width="100%" alt="">
+        </div>
+    </div>
+    <div class="lunbo">
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <a href="http://m.kooniao.com/shop/static/html/detail/detail.html?productCode=661481254305844150&shopCode=4014812526697394985&from=singlemessage">
+                    <img src="image/01jiaodingshan.jpg" width="100%" alt="...">
+                    </a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="http://m.kooniao.com/shop/static/html/detail/detail.html?productCode=6614828069260114825&shopCode=4014630176754217874">
+                    <img src="image/05yadao.jpg" width="100%" alt="...">
+                    </a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="http://m.kooniao.com/shop/static/html/detail/detail.html?productCode=6614630226611035842&shopCode=4014630175886383620">
+                    <img src="image/06gongla.jpg" width="100%" alt="...">
+                    </a>
+                </div>
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+    </div>
+    <div class="nav">
+        <div class="nav_1">
+            <a href="http://m.kooniao.com/playing/climbing/">
+                <img src="image/pandeng.png" width="100%" alt="">
+            </a>
+
+        </div>
+        <div class="nav_1">
+            <a href="http://m.kooniao.com/playing/around/">
+                <img src="image/tubu.png" width="100%" alt="">
+            </a>
+        </div>
+        <div class="nav_1">
+            <a href="http://m.kooniao.com/playing/hotel/">
+                <img src="image/sheying.png" width="100%" alt="">
+            </a>
+
+        </div>
+        <div class="nav_1">
+            <a href="http://m.kooniao.com/playing/training/">
+                <img src="image/zijia.png" width="100%" alt="">
+            </a>
+
+        </div>
+        <div class="nav_1">
+            <a href="http://m.kooniao.com/playing/inland/">
+                <img src="image/kezhan.png" width="100%" alt="">
+            </a>
+            
+        </div>
+
+    </div>
+    <div class="bgColor_30"></div>
+    <div class="goodTheme">
+        <div class="title">
+            <img src="image/jingxuanzhuti.png" width="100%" alt="">
+        </div>
+        <div class="img_1">
+            <a href="http://m.kooniao.com/theme/wenxinqinziyou/">
+                <img src="image/sichuantesehuwai.png" width="100%" alt="">
+            </a>
+        </div>
+        <div class="img_1">
+            <div class="img_left">
+                <a href="http://m.kooniao.com/theme/dujiachuanzangxian/">
+                    <img src="image/dujiachuangzhangxian2x.png" width="100%" alt="">
+                </a>
+            </div>
+            <div class="img_right">
+                <a href="http://m.kooniao.com/theme/jiejiarichuyou/">
+                    <img src="image/jiejiarichuyou.png" width="100%" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="img_1">
+            <a href="http://m.kooniao.com/theme/feifanchujingyou/">
+                <img src="image/feifanchujingyou2x.png" width="100%" alt="">
+            </a>
+        </div>
+        <div class="img_2">
+            <a href="http://m.kooniao.com/theme/teseguoneiyou/">
+                <img src="image/teseguoneiyou.png" width="100%" alt="">
+            </a>
+        </div>
+    </div>
+    <div class="bgColor_30"></div>
+    <div class="goodProduct">
+        <div class="productTitle">
+            <img src="image/jingxuanchanping.png" width="100%" alt="">
+        </div>
+        <div class="product_1">
+            <a href="http://m.kooniao.com/shop/static/html/detail/detail.html?productCode=661463037680804212&shopCode=4014630175886383620">
+                <img src="image/item2x.png" width="100%" alt="">
+            </a>
+
+        </div>
+        <div class="product_1">
+            <a href="http://m.kooniao.com/shop/static/html/detail/detail.html?productCode=6614667658511814893&shopCode=4014817679377424293">
+                <img src="image/item22x.png" width="100%" alt="">
+            </a>
+
+        </div>
+        <div class="product_1">
+            <a href="http://m.kooniao.com/shop/static/html/detail/detail.html?productCode=6614878995834709248&shopCode=4014630191353662606">
+                <img src="image/item32x.png" width="100%" alt="">
+            </a>
+
+        </div>
+        <div class="product_1">
+            <a href="http://m.kooniao.com/shop/static/html/detail/detail.html?productCode=6614828069260114825&shopCode=4014630176754217874">
+                <img src="image/item42x.png" width="100%" alt="">
+            </a>
+
+        </div>
+        <div class="product_2">
+            <a href="http://m.kooniao.com/shop/static/html/detail/detail.html?productCode=6614630226611035842&shopCode=4014630175886383620">
+                <img src="image/item52x.png" width="100%" alt="">
+            </a>
+
+        </div>
+    </div>
+    <div class="bgColor_30"></div>
+    <div class="travel">
+        <div class="travelTtitle">
+            <img src="image/lvxingzhijia.png" width="100%" alt="">
+        </div>
+        <div class="travelNav">
+            <div class="travelNav_1">
+                <a href="http://m.kooniao.com/shop/static/html/index/index.html?shopCode=4014639791196336011">
+                    <img src="image/logo012x.png" width="100%" alt="">
+                </a>
+
+            </div>
+            <div class="travelNav_1">
+                <a href="http://m.kooniao.com/shop/static/html/index/index.html?shopCode=4014630191353662606">
+                    <img src="image/logo022x.png" width="100%" alt="">
+                </a>
+                
+            </div>
+            <div class="travelNav_1">
+                <a href="http://m.kooniao.com/shop/static/html/index/index.html?shopCode=4014630176754217874">
+                    <img src="image/logo032x.png" width="100%" alt="">
+                </a>
+                
+            </div>
+            <div class="travelNav_1">
+                <a href="http://m.kooniao.com/shop/static/html/index/index.html?shopCode=4014630175886383620">
+                    <img src="image/logo042x.png" width="100%" alt="">
+                </a>
+
+            </div>
+            <div class="travelNav_2">
+                <a href="http://m.kooniao.com/shop/static/html/index/index.html?shopCode=4014817679377424293">
+                    <img src="image/logo052x.png" width="100%" alt="">
+                </a>
+
+            </div>
+
+        </div>
+    </div>
+    <div class="footer">
+        <span>Copyright @ 2015 - 2017 酷鸟</span>
+    </div>
+</div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="lib/js/jquery.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="lib/js/bootstrap.min.js"></script>
+<script src="lib/js/swiper.min.js"></script>
+<script>
+    /*rem字体*/
+    var body_width=750;
+    body_width = $(window).width() <= 750 ? $(window).width() : 750;
+    var docEl = document.documentElement,myfontSize;
+    resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+        recalc = function() {
+            //设置根字体大小
+            myfontSize = body_width/750*100;
+            // console.log(myfontSize);
+            if(myfontSize > 100){
+                myfontSize = "100px";
+            }
+            docEl.style.fontSize = myfontSize + 'px';
+        };
+    //绑定浏览器缩放与加载时间
+    window.addEventListener(resizeEvt, recalc, false);
+    document.addEventListener('DOMContentLoaded', recalc, false);
+
+//    轮播图
+    var swiper = new Swiper('.swiper-container',{
+        pagination : '.swiper-pagination',
+        loop : true,
+        autoplay:3500,
+        autoplayDisableOnInteraction: false,
+    });
+
+</script>
+</body>
+</html>
